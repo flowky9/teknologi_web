@@ -2,9 +2,9 @@
 <h2>Nama Kelompok</h2>
 <ol>
 	<li>Nauval Shidqi (1644390040)</li>
-  <li>Syaidi (1644390040)</li>
-  <li>Fian (1644390040)</li>
-  <li>Joe (1644390040)</li>
+	<li>Syaiyidi hafajoh (1644390010)</li>
+	<li>Julio Sitorus (1644390029)</li>
+	<li>Alfyan Pradana putra (1644390017)</li>
 </ol>
 
 <h2>Cara Install</h2>
